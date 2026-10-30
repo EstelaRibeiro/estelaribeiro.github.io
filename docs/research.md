@@ -2,19 +2,15 @@
 
 ## Accepted (to appear)
 
-1. **SOARES, Q. B.; ⭐ RIBEIRO, ESTELA; DIAS, FELIPE M.; CARDENAS, DIEGO, A. A.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A. G.** Lightweight DNN for Chagas disease screening using 12-lead ECG signals. *Computing in Cardiology Conference (CINC)*, 2025.
-
-2. **⭐ RIBEIRO, E.; SOARES, Q. B.; ANDRADE, D. A.; et al.** Deep Learning signal quality assessment for continuous wearable ECG monitoring. *Computing in Cardiology Conference (CINC)*, 2025.
-
-3. **⭐ RIBEIRO, ESTELA; SOARES, QUENAZ B.; DIAS, FELIPE M.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A. G.** Can Deep Learning models differentiate Atrial Fibrillation from Atrial Flutter? *National Meeting on Artificial and Computational Intelligence (ENIAC)*, 2025.
-
-4. **DIAS, F. M.; TOLEDO, M. A. F.; CARDENAS, D. A. C.; ALMEIDA, D. A.; OLIVEIRA, F. A. C.; ⭐ RIBEIRO, E.; KRIEGER, J. E.; GUTIERREZ, M. A.** Quality Assessment of Photoplethysmography Signals For Cardiovascular Biomarkers Monitoring Using Wearable Devices. *National Meeting on Artificial and Computational Intelligence (ENIAC)*, 2025.
-
-5. **DIAS, F. M.; TOLEDO, M. A. F.; CARDENAS, D. A. C.; OLIVEIRA, F. A. C.; ⭐ RIBEIRO, E.; KRIEGER, J. E.; GUTIERREZ, M. A.** Estimating Blood Pressure from PPG Signals Using a Dual Calibration Siamese Network Approach. *Brazilian Congress of Biomedical Engineering (CBEB)*, 2024.
-
-6. **LARANJEIRA, R.; DIAS, F. M.; ⭐ RIBEIRO, E.; GUTIERREZ, M. A.; CORDEIRO, T.** Multimodal Neural Network for Atrial Fibrillation Classification from Single-Lead ECG Recordings. *Brazilian Congress of Biomedical Engineering (CBEB)*, 2024.
+...
 
 ## Journal Articles
+
+1. **CARDENAS, D. A. C.; ⭐ RIBEIRO, ESTELA; SOARES, Q. B.; DIAS, F. M.; KRIEGER, J. E.; GUTIERREZ, M. A.** Exploring the potential of DL for Chagas disease screening using chest x-rays. *Physiological Measurement*, vol. , pp. , 2026. DOI: [10.1088/1361-6579/aeb9a1](https://doi.org/10.1088/1361-6579/aeb9a1)
+
+19. **⭐ RIBEIRO, ESTELA ;SOARES, Q. B.; ALMEIDA, D. A.; et al** Long-Term continuous monitoring of wearable ECG signals for atrial fibrillation detection *Scientific reports*, vol. 16(1) pp. 1-20, 2026. DOI [10.1038/s41598-026-54532-x](https://doi.org/10.1038/s41598-026-54532-x)
+
+19. **⭐ RIBEIRO, ESTELA; DIAS, FELIPE M.; SOARES, QUENAZ B.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A. G.** Enhancing interpretability in image-based ECG exams for atrial fibrillation classification using deep learning *Research on Biomedical Engineering*, vol 41(3), pp1-14, 2025. DOI: [10.1007/s42600-025-00432-4](https://doi.org/10.1007/s42600-025-00432-4)
 
 1. **DIAS, FELIPE M.; CARDENAS, D. A. C.; TOLEDO, M. A. F.; OLIVEIRA, F. A. C.; ⭐ RIBEIRO, E.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A.** Exploring the limitations of blood pressure estimation using the photoplethysmography signal. *Physiological Measurement*, vol. 46, pp 045007, 2025. 
 DOI: [10.1088/1361-6579/adcb86](https://doi.org/10.1088/1361-6579/adcb86)
@@ -33,45 +29,69 @@ DOI: [10.1525/mp.2019.37.1.42](https://doi.org/10.1525/mp.2019.37.1.42)
 
 ## Conference Papers
 
-1. **PENA, J.; CARDENAS, D. A. C.; TOLEDO, M. A. F.; DIAS, F. M.; ⭐ RIBEIRO, E.; KRIEGER, J. E.; GUTIERREZ, M. A.** Enhancing Photoplethysmography-Based Sleep Staging Models Through Temporal Context Optimization. *MEDINFO 2025 — Healthcare Smart × Medicine Deep*, 2025.
+1. **⭐ RIBEIRO, ESTELA; CARVALHO, G. G.; CARDENAS, D. A. C.; SOUZA, R.; GUTIERREZ, M. A.** Exploratory Analysis of Deep Learning Model for Non Invasive Classification of Pulmonary Hypertension Based On Chest X-Ray Images. *Simposio brasileiro de computação aplicada a saúde (sbcas)*, 2026. DOI: [10.5753/sbcas.2026.20671](https://doi.org/10.5753/sbcas.2026.20671)
 
-2. **DIAS, FELIPE M.; ⭐ RIBEIRO, ESTELA; SOARES, QUENAZ B.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A. G.** Predicting Age and Sex from Reduced Lead Electrocardiograms using Deep Learning. *Simposio Brasileiro de Computação Aplicada a Saúde (SBCAS)*, 2025. DOI: [10.5753/sbcas.2025.7705](https://doi.org/10.5753/sbcas.2025.7705)
+2. **PENA, J.; CARDENAS, D. A. C.; TOLEDO, M. A. F.; DIAS, F. M.; ⭐ RIBEIRO, E.; KRIEGER, J. E.; GUTIERREZ, M. A.** Transformer-Based Sleep Staging Using Continuous Photoplethysmography Signals. *Simposio brasileiro de computação aplicada a saude (sbcas)*, 2026. DOI: [10.5753/sbcas.2026.21548](https://doi.org/10.5753/sbcas.2026.21548)
 
-3. **SOARES, Q. B.; ANDRADE, D. A.; ⭐ RIBEIRO, E.; et al.** Clinical Assessment of a Lightweight CNN Model for Real-Time Atrial Fibrillation Prediction in Continuous Wearable Monitoring. *IEEE Engineering in Medicine and Biology Conference (EMBC)*, 2024. DOI: [10.1109/EMBC53108.2024.10781856](https://doi.org/10.1109/EMBC53108.2024.10781856)
+3. **⭐ RIBEIRO, ESTELA; SOARES, QUENAZ B.; ALMEIDA, D. A.; ...; GUTIERREZ, MARCO A. G.** Single-Lead Abnormal ECG Screening with a Lightweight Deep Learning Model for Wearable Health Monitoring *Simposio brasileiro de computação aplicada a saúde (sbcas)*, 2026. DOI: [10.5753/sbcas.2026.20274](https://doi.org/10.5753/sbcas.2026.20274)
 
-4. **ALMEIDA, D. A.; DIAS, FELIPE M.; TOLEDO, M. A. F.; CARDENAS, D. A. C.; OLIVEIRA, F. A. C.; ⭐ RIBEIRO, E.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A.** A Machine-Learning Sleep-Wake Classification Model Using a Reduced Number of Features Derived from Photoplethysmography and Activity Signals. In: *XXIV Brazilian Symposium on Applied Computing to Health*, Goiás, 2024. Proceedings of the XXIV Brazilian Symposium on Applied Computing to Health, vol. 24.  
+4. **⭐ RIBEIRO, ESTELA; SOARES, QUENAZ B.; ALMEIDA, D. A.; ...; GUTIERREZ, MARCO A. G.** Deep Learning Signal Quality Assessment for Continuous Wearable ECG Monitoring *Computing in Cardiology (cinc)*, 2025. DOI: [10.22489/CinC.2025.382](https://doi.org/10.22489/CinC.2025.382)
+
+5. **SOARES, QUENAZ B.; CARDENAS, D. A. C.; DIAS, FELIPE M.; ⭐ RIBEIRO, ESTELA; S; KRIEGER, JOSE E.; GUTIERREZ, MARCO A. G.** Lightweight Deep Neural Network for Chagas Disease Screening Using 12-lead ECG signals. *Computing in Cardiology (cinc)*, 2025. DOI: [10.22489/CinC.2025.368](https://doi.org/10.22489/CinC.2025.368)
+
+6. ***OLIVEIRA, F. A. C.; DIAS, F. M.; TOLEDO, M. A. F.; CARDENAS, D. A. C.; ALMEIDA, D. A.; ⭐ RIBEIRO, E.; MORENO, R. A; KRIEGER, J. E.; GUTIERREZ, M. A.** Non-invasive Blood Glucose Estimation: an Approach Using Multi-Wavelength PPG Signals and Residual Neural Networks. *2025 21st International Symposium on Biomedical Image Processing and Analysis (SIPAIM)*, 2025. DOI: [10.1109/SIPAIM67325.2025.11283351](https://doi.org/10.1109/SIPAIM67325.2025.11283351)
+
+7. **SOARES, Q. B.; ⭐ RIBEIRO, ESTELA; DIAS, FELIPE M.; CARDENAS, DIEGO, A. A.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A. G.** Lightweight DNN for Chagas disease screening using 12-lead ECG signals. *Computing in Cardiology Conference (CINC)*, 2025. DOI: [10.22489/CinC.2025.368](https://doi.org/10.22489/CinC.2025.368)
+
+8. **⭐ RIBEIRO, E.; SOARES, Q. B.; ANDRADE, D. A.; et al.** Deep Learning signal quality assessment for continuous wearable ECG monitoring. *Computing in Cardiology Conference (CINC)*, 2025. DOI: [10.5753/eniac.2025.11814](https://doi.org/10.5753/eniac.2025.11814)
+
+9. **⭐ RIBEIRO, ESTELA; SOARES, QUENAZ B.; DIAS, FELIPE M.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A. G.** Can Deep Learning models differentiate Atrial Fibrillation from Atrial Flutter? *National Meeting on Artificial and Computational Intelligence (ENIAC)*, 2025.
+
+10. **DIAS, F. M.; TOLEDO, M. A. F.; CARDENAS, D. A. C.; ALMEIDA, D. A.; OLIVEIRA, F. A. C.; ⭐ RIBEIRO, E.; KRIEGER, J. E.; GUTIERREZ, M. A.** Quality Assessment of Photoplethysmography Signals For Cardiovascular Biomarkers Monitoring Using Wearable Devices. *National Meeting on Artificial and Computational Intelligence (ENIAC)*, 2025. DOI:[10.5753/eniac.2025.11804](https://doi.org/10.5753/eniac.2025.11804)
+
+11. **PENA, J.; CARDENAS, D. A. C.; TOLEDO, M. A. F.; DIAS, F. M.; ⭐ RIBEIRO, E.; KRIEGER, J. E.; GUTIERREZ, M. A.** Enhancing Photoplethysmography-Based Sleep Staging Models Through Temporal Context Optimization. *MEDINFO 2025 — Healthcare Smart × Medicine Deep*, 2025. DOI: [10.3233/SHTI250897](https://doi.org/10.3233/SHTI250897)
+
+12. **DIAS, FELIPE M.; ⭐ RIBEIRO, ESTELA; SOARES, QUENAZ B.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A. G.** Predicting Age and Sex from Reduced Lead Electrocardiograms using Deep Learning. *Simposio Brasileiro de Computação Aplicada a Saúde (SBCAS)*, 2025. DOI: [10.5753/sbcas.2025.7705](https://doi.org/10.5753/sbcas.2025.7705)
+
+13. **CARDENAS, D. A. C.; DIAS, F. M.; TOLEDO, M. A. F.; OLIVEIRA, F. A. C.; ⭐ RIBEIRO, E.; KRIEGER, J. E.; GUTIERREZ, M. A.** Estimating Blood Pressure from PPG Signals Using a Dual Calibration Siamese Network Approach. *Brazilian Congress of Biomedical Engineering (CBEB)*, 2024. DOI:[10.1007/978-3-031-94934-0_80](https://doi.org/10.1007/978-3-031-94934-0_80)
+
+14. **LARANJEIRA, R.; DIAS, F. M.; ⭐ RIBEIRO, E.; GUTIERREZ, M. A.; CORDEIRO, T.** Multimodal Neural Network for Atrial Fibrillation Classification from Single-Lead ECG Recordings. *Brazilian Congress of Biomedical Engineering (CBEB)*, 2024. DOI: [10.1007/978-3-031-94934-0_102](https://doi.org/10.1007/978-3-031-94934-0_102)
+
+15. **SOARES, Q. B.; ANDRADE, D. A.; ⭐ RIBEIRO, E.; et al.** Clinical Assessment of a Lightweight CNN Model for Real-Time Atrial Fibrillation Prediction in Continuous Wearable Monitoring. *IEEE Engineering in Medicine and Biology Conference (EMBC)*, 2024. DOI: [10.1109/EMBC53108.2024.10781856](https://doi.org/10.1109/EMBC53108.2024.10781856)
+
+16. **ALMEIDA, D. A.; DIAS, FELIPE M.; TOLEDO, M. A. F.; CARDENAS, D. A. C.; OLIVEIRA, F. A. C.; ⭐ RIBEIRO, E.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A.** A Machine-Learning Sleep-Wake Classification Model Using a Reduced Number of Features Derived from Photoplethysmography and Activity Signals. In: *XXIV Brazilian Symposium on Applied Computing to Health*, Goiás, 2024. Proceedings of the XXIV Brazilian Symposium on Applied Computing to Health, vol. 24.  
 DOI: [10.5753/sbcas.2024.1872](https://doi.org/10.5753/sbcas.2024.1872)
 
-5. **OLIVEIRA, F. A. C.; DIAS, FELIPE M.; TOLEDO, M. A. F.; CARDENAS, D. A. C.; ALMEIDA, D. A.; ⭐ RIBEIRO, E.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A.** Machine Learning-Based Diabetes Detection Using Photoplethysmography Signal Features. In: *XXIV Brazilian Symposium on Applied Computing to Health*, Goiás, 2024. Proceedings of the XXIV Brazilian Symposium on Applied Computing to Health, vol. 24.  
+17. **OLIVEIRA, F. A. C.; DIAS, FELIPE M.; TOLEDO, M. A. F.; CARDENAS, D. A. C.; ALMEIDA, D. A.; ⭐ RIBEIRO, E.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A.** Machine Learning-Based Diabetes Detection Using Photoplethysmography Signal Features. In: *XXIV Brazilian Symposium on Applied Computing to Health*, Goiás, 2024. Proceedings of the XXIV Brazilian Symposium on Applied Computing to Health, vol. 24.  
 DOI: [10.5753/sbcas.2024.1889](https://doi.org/10.5753/sbcas.2024.1889)
 
-6. **⭐ RIBEIRO, ESTELA; CARDENAS, DIEGO A. C.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A.** Interpretable Deep Learning Model For Cardiomegaly Detection with Chest X-ray Images. In: *XXIII Brazilian Symposium on Applied Computing to Health (SBCAS 2023)*, Brazil, 2023. Proceedings of the XXIII Brazilian Symposium on Applied Computing to Health, vol. 23, pp. 340.  
+18. **⭐ RIBEIRO, ESTELA; CARDENAS, DIEGO A. C.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A.** Interpretable Deep Learning Model For Cardiomegaly Detection with Chest X-ray Images. In: *XXIII Brazilian Symposium on Applied Computing to Health (SBCAS 2023)*, Brazil, 2023. Proceedings of the XXIII Brazilian Symposium on Applied Computing to Health, vol. 23, pp. 340.  
 DOI: [10.5753/sbcas.2023.229943](https://doi.org/10.5753/sbcas.2023.229943)
 
-7. **⭐ RIBEIRO, ESTELA; DIAS, FELIPE M.; SOARES, QUENAZ B.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A. G.** Deep Learning Approach for Detection of Atrial Fibrillation and Atrial Flutter Based on ECG Images. In: *XXIII Brazilian Symposium on Applied Computing to Health (SBCAS 2023)*, Brazil, 2023. Proceedings of the XXIII Brazilian Symposium on Applied Computing to Health, vol. 23, pp. 509.  
+19. **⭐ RIBEIRO, ESTELA; DIAS, FELIPE M.; SOARES, QUENAZ B.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A. G.** Deep Learning Approach for Detection of Atrial Fibrillation and Atrial Flutter Based on ECG Images. In: *XXIII Brazilian Symposium on Applied Computing to Health (SBCAS 2023)*, Brazil, 2023. Proceedings of the XXIII Brazilian Symposium on Applied Computing to Health, vol. 23, pp. 509.  
 DOI: [10.5753/sbcas.2023.229744](https://doi.org/10.5753/sbcas.2023.229744)
 
-8. **BEZERRA SOARES, QUENAZ; MENEGUITTI DIAS, FELIPE; ⭐ RIBEIRO, ESTELA; EDUARDO KRIEGER, JOSE; GUTIERREZ, MARCO.** Developing a Machine Learning Pipeline for Predicting Neurological Outcomes in Comatose Cardiac Arrest Survivors Using Continuous EEG Data. In: *Computing in Cardiology Conference*, 2023.  
+20. **BEZERRA SOARES, QUENAZ; MENEGUITTI DIAS, FELIPE; ⭐ RIBEIRO, ESTELA; EDUARDO KRIEGER, JOSE; GUTIERREZ, MARCO.** Developing a Machine Learning Pipeline for Predicting Neurological Outcomes in Comatose Cardiac Arrest Survivors Using Continuous EEG Data. In: *Computing in Cardiology Conference*, 2023.  
 DOI: [10.22489/CinC.2023.165](https://doi.org/10.22489/CinC.2023.165)
 
-9. **FERNANDES, M. A. S.; ⭐ RIBEIRO, E.; THOMAZ, C. E.** Análise de características acústicas para identificação de triggers em gêneros e áudios musicais distintos. In: *Simpósio Brasileiro de Computação Musical*, 2021.  DOI: [10.5753/sbcm.2021.19450](https://doi.org/10.5753/sbcm.2021.19450)
+21. **FERNANDES, M. A. S.; ⭐ RIBEIRO, E.; THOMAZ, C. E.** Análise de características acústicas para identificação de triggers em gêneros e áudios musicais distintos. In: *Simpósio Brasileiro de Computação Musical*, 2021.  DOI: [10.5753/sbcm.2021.19450](https://doi.org/10.5753/sbcm.2021.19450)
 
-10. **BARBOSA, V. S.; ⭐ RIBEIRO, E.; THOMAZ, C. E.** Agrupamento estatístico de característica acústica e triggers. In: *XI Scientific Symposium of FEI (SICFEI)*, São Bernardo do Campo, 2021. Proceedings of SICFEI, vol. 11.
+22. **BARBOSA, V. S.; ⭐ RIBEIRO, E.; THOMAZ, C. E.** Agrupamento estatístico de característica acústica e triggers. In: *XI Scientific Symposium of FEI (SICFEI)*, São Bernardo do Campo, 2021. Proceedings of SICFEI, vol. 11.
 
-11. **FERNANDES, M. A. S.; RIBEIRO, E.; THOMAZ, C. E.** Study on Brain Activations Modulated by Music Preferences. In: *X Scientific Symposium of FEI (SICFEI)*, São Bernardo do Campo, 2020. Proceedings of SICFEI, vol. 10.
+23. **FERNANDES, M. A. S.; RIBEIRO, E.; THOMAZ, C. E.** Study on Brain Activations Modulated by Music Preferences. In: *X Scientific Symposium of FEI (SICFEI)*, São Bernardo do Campo, 2020. Proceedings of SICFEI, vol. 10.
 
-12. **FERREIRA, L. A.; ⭐ RIBEIRO, ESTELA; THOMAZ, C. E.** A Cluster Analysis of Benchmark Acoustic Features on Brazilian Music. In: *17th Brazilian Symposium on Computer Music (SBCM)*, São João del Rei, 2019. Proceedings of SBCM, vol. 17.  
+24. **FERREIRA, L. A.; ⭐ RIBEIRO, ESTELA; THOMAZ, C. E.** A Cluster Analysis of Benchmark Acoustic Features on Brazilian Music. In: *17th Brazilian Symposium on Computer Music (SBCM)*, São João del Rei, 2019. Proceedings of SBCM, vol. 17.  
 DOI: [10.5753/sbcm.2019.10444](https://doi.org/10.5753/sbcm.2019.10444)
 
-13. **FERREIRA, L. A.; RIBEIRO, E.; THOMAZ, C. E.** Padrões de ativação corticais gerados durante a audição de músicas brasileiras. In: *IX Scientific Symposium of FEI (SICFEI)*, São Bernardo do Campo, 2019. Proceedings of SICFEI, vol. 9.
+25. **FERREIRA, L. A.; RIBEIRO, E.; THOMAZ, C. E.** Padrões de ativação corticais gerados durante a audição de músicas brasileiras. In: *IX Scientific Symposium of FEI (SICFEI)*, São Bernardo do Campo, 2019. Proceedings of SICFEI, vol. 9.
 
-14. **⭐ RIBEIRO, ESTELA; THOMAZ, CARLOS EDUARDO.** A Multivariate Statistical Analysis of EEG Signals for Differentiation of Musicians and Non-Musicians. In: *XV National Meeting on Artificial and Computational Intelligence (ENIAC)*, São Paulo, 2018.  
+26. **⭐ RIBEIRO, ESTELA; THOMAZ, CARLOS EDUARDO.** A Multivariate Statistical Analysis of EEG Signals for Differentiation of Musicians and Non-Musicians. In: *XV National Meeting on Artificial and Computational Intelligence (ENIAC)*, São Paulo, 2018.  
 DOI: [10.5753/eniac.2018.4442](https://doi.org/10.5753/eniac.2018.4442)
 
-15. **VARELA, V. P. L.; ⭐ RIBEIRO, E.; ORONA, P. A. S. S.; THOMAZ, C. E.** Eye Movements and Human Face Perception: A Holistic Analysis and Proficiency Classification Based on Frontal 2D Face Images. In: *XV National Meeting on Artificial and Computational Intelligence (ENIAC)*, São Paulo, 2018.  
+27. **VARELA, V. P. L.; ⭐ RIBEIRO, E.; ORONA, P. A. S. S.; THOMAZ, C. E.** Eye Movements and Human Face Perception: A Holistic Analysis and Proficiency Classification Based on Frontal 2D Face Images. In: *XV National Meeting on Artificial and Computational Intelligence (ENIAC)*, São Paulo, 2018.  
 DOI: [10.5753/eniac.2018.4403](https://doi.org/10.5753/eniac.2018.4403)
 
-13. **⭐ RIBEIRO, ESTELA; THOMAZ, CARLOS EDUARDO.** Um estudo sobre predição de musicalidade por meio da análise de sinais de EEG. In: *VIII Symposium on Medical Instrumentation and Images (SIIM) / VII Signal Processing Symposium (SPS)*, São Bernardo do Campo, 2017. Proceedings of SIIM / SPS 2017.
+28. **⭐ RIBEIRO, ESTELA; THOMAZ, CARLOS EDUARDO.** Um estudo sobre predição de musicalidade por meio da análise de sinais de EEG. In: *VIII Symposium on Medical Instrumentation and Images (SIIM) / VII Signal Processing Symposium (SPS)*, São Bernardo do Campo, 2017. Proceedings of SIIM / SPS 2017.
 
 ## Preprints
 
