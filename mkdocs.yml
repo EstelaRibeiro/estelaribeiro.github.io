@@ -3,11 +3,11 @@
 # Site
 site_name: Estela's personal site
 site_description: The personal site of Estela Ribeiro
-site_url: https://rEstela.github.io/
+site_url: https://estelaribeiro.github.io/
 
 # Git
-repo_url: https://github.com/rEstela/rEstela.github.io
-repo_name: rEstela/rEstela.github.io
+repo_url: https://github.com/EstelaRibeiro/estelaribeiro.github.io
+repo_name: EstelaRibeiro/estelaribeiro.github.io
 
 theme:
   icon:
